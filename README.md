@@ -1,0 +1,2 @@
+This uses a ESP32 or ESP8266 microcontroller to display real-time clock information on an OLED display. It connects to a Wi-Fi network, synchronizes time with an NTP server, and then continuously updates the display to show the current time in hours, minutes, and seconds, along with an analog-style clock representation. The code is well-commented for easy understanding and modification. 
+Made with love <3
